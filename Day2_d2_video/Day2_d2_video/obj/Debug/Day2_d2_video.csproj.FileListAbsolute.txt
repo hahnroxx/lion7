@@ -1,0 +1,8 @@
+C:\LION7\lion7\Day2_d2_video\Day2_d2_video\obj\Debug\Day2_d2_video.csproj.AssemblyReference.cache
+C:\LION7\lion7\Day2_d2_video\Day2_d2_video\obj\Debug\Day2_d2_video.csproj.CoreCompileInputs.cache
+C:\LION7\lion7\Day2_d2_video\Day2_d2_video\bin\Debug\Day2_d2_video.exe.config
+C:\LION7\lion7\Day2_d2_video\Day2_d2_video\bin\Debug\Day2_d2_video.exe
+C:\LION7\lion7\Day2_d2_video\Day2_d2_video\bin\Debug\Day2_d2_video.pdb
+C:\LION7\lion7\Day2_d2_video\Day2_d2_video\obj\Debug\Day2_d2_video.exe
+C:\LION7\lion7\Day2_d2_video\Day2_d2_video\obj\Debug\Day2_d2_video.pdb
+C:\LION7\lion7\Day2_d2_video\Day2_d2_video\obj\Debug\Day2_d2_video.exe.config

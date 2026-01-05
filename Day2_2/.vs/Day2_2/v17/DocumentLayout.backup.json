@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LION7\\lion7\\Day2_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{436E61D6-C991-4BD5-9D56-51FBEEEB7715}|Day2_2\\Day2_2.csproj|c:\\lion7\\lion7\\day2_2\\day2_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{436E61D6-C991-4BD5-9D56-51FBEEEB7715}|Day2_2\\Day2_2.csproj|solutionrelative:day2_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LION7\\lion7\\Day2_2\\Day2_2\\Program.cs",
+              "RelativeDocumentMoniker": "Day2_2\\Program.cs",
+              "ToolTip": "C:\\LION7\\lion7\\Day2_2\\Day2_2\\Program.cs*",
+              "RelativeToolTip": "Day2_2\\Program.cs*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAwD4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T04:04:53.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
