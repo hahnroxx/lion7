@@ -16,6 +16,18 @@ namespace Day2_d2_video
             int Level = 100;
 
             Console.WriteLine("┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓");
+            Console.WriteLine("┃                              ┃");
+            Console.WriteLine("┃                              ┃");
+            Console.WriteLine("┃                              ┃");
+            Console.WriteLine("┃                              ┃");
+            Console.WriteLine("┃                              ┃");
+            Console.WriteLine("┃                              ┃");
+            Console.WriteLine("┃                              ┃");
+            Console.WriteLine("┃                              ┃");
+            Console.WriteLine("┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛");
+            Thread.Sleep(1000);
+
+            Console.WriteLine("┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓");
 
             Console.WriteLine("┃        === STATUS ===        ┃");
             Thread.Sleep(1000);
@@ -24,45 +36,49 @@ namespace Day2_d2_video
             Console.WriteLine("┃             level: " + Level + "       ┃");
             Thread.Sleep(1000);
 
-            Console.WriteLine("");
+            Console.WriteLine("┃                              ┃");
 
 
-            Console.WriteLine("             로딩중....");
+            Console.WriteLine("┃          로딩중....          ┃");
             Thread.Sleep(500);
-            Console.Write("   진행률 : [");
+            Console.Write("┃  진행률 : [");
             Console.Write("■");
             Thread.Sleep(500);
 
             Console.Write("■");
-            Thread.Sleep(500);
+            Thread.Sleep(400);
 
             Console.Write("■");
-            Thread.Sleep(500);
+            Thread.Sleep(300);  
 
             Console.Write("■");
-            Thread.Sleep(500);
+            Thread.Sleep(200);
 
             Console.Write("■");
-            Thread.Sleep(500);
+            Thread.Sleep(100);
 
             Console.Write("■");
-            Thread.Sleep(500);
+            Thread.Sleep(100);
 
             Console.Write("■");
-            Thread.Sleep(500);
+            Thread.Sleep(100);
 
             Console.Write("■");
-            Thread.Sleep(500);
+            Thread.Sleep(100);
 
             Console.Write("■");
-            Thread.Sleep(500);
+            Thread.Sleep(100);
 
-            Console.WriteLine("] 100% \n");
-            Thread.Sleep(500);
+            Console.Write("■");
+            Thread.Sleep(100);
 
-            Console.WriteLine();
+            Console.Write("]");
+            Thread.Sleep(500);
+            Console.WriteLine(" 100%  ┃");
             Thread.Sleep(1000);
-            Console.WriteLine("┃      ■■■■게임 시작■■■■       ┃");
+
+            Console.WriteLine("┃                              ┃");
+            Console.WriteLine("┃      ☆★☆★게임 시작★☆★☆       ┃");
             
 
             Console.WriteLine("┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛");

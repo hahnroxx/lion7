@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LION7\\lion7\\Day3_Tasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6639D829-7233-489B-8EC5-4E3858702161}|Day3_Tasks\\Day3_Tasks.csproj|c:\\lion7\\lion7\\day3_tasks\\day3_tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6639D829-7233-489B-8EC5-4E3858702161}|Day3_Tasks\\Day3_Tasks.csproj|solutionrelative:day3_tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LION7\\lion7\\Day3_Tasks\\Day3_Tasks\\Program.cs",
+              "RelativeDocumentMoniker": "Day3_Tasks\\Program.cs",
+              "ToolTip": "C:\\LION7\\lion7\\Day3_Tasks\\Day3_Tasks\\Program.cs",
+              "RelativeToolTip": "Day3_Tasks\\Program.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T06:51:12.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

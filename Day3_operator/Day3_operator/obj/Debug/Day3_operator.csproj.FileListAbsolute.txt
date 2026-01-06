@@ -1,0 +1,8 @@
+C:\LION7\lion7\Day3_operator\Day3_operator\bin\Debug\Day3_operator.exe.config
+C:\LION7\lion7\Day3_operator\Day3_operator\bin\Debug\Day3_operator.exe
+C:\LION7\lion7\Day3_operator\Day3_operator\bin\Debug\Day3_operator.pdb
+C:\LION7\lion7\Day3_operator\Day3_operator\obj\Debug\Day3_operator.csproj.AssemblyReference.cache
+C:\LION7\lion7\Day3_operator\Day3_operator\obj\Debug\Day3_operator.csproj.CoreCompileInputs.cache
+C:\LION7\lion7\Day3_operator\Day3_operator\obj\Debug\Day3_operator.exe
+C:\LION7\lion7\Day3_operator\Day3_operator\obj\Debug\Day3_operator.pdb
+C:\LION7\lion7\Day3_operator\Day3_operator\obj\Debug\Day3_operator.exe.config

@@ -1,0 +1,8 @@
+C:\LION7\lion7\Day3_Readline\Day3_Readline\bin\Debug\Day3_Readline.exe.config
+C:\LION7\lion7\Day3_Readline\Day3_Readline\bin\Debug\Day3_Readline.exe
+C:\LION7\lion7\Day3_Readline\Day3_Readline\bin\Debug\Day3_Readline.pdb
+C:\LION7\lion7\Day3_Readline\Day3_Readline\obj\Debug\Day3_Readline.csproj.AssemblyReference.cache
+C:\LION7\lion7\Day3_Readline\Day3_Readline\obj\Debug\Day3_Readline.csproj.CoreCompileInputs.cache
+C:\LION7\lion7\Day3_Readline\Day3_Readline\obj\Debug\Day3_Readline.exe
+C:\LION7\lion7\Day3_Readline\Day3_Readline\obj\Debug\Day3_Readline.pdb
+C:\LION7\lion7\Day3_Readline\Day3_Readline\obj\Debug\Day3_Readline.exe.config

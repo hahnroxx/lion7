@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\LION7\\lion7\\Day2_d2_video\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89618C6A-DD76-4482-A5CE-60D358A07982}|Day2_d2_video\\Day2_d2_video.csproj|c:\\lion7\\lion7\\day2_d2_video\\day2_d2_video\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89618C6A-DD76-4482-A5CE-60D358A07982}|Day2_d2_video\\Day2_d2_video.csproj|solutionrelative:day2_d2_video\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LION7\\lion7\\Day2_d2_video\\Day2_d2_video\\Program.cs",
+              "RelativeDocumentMoniker": "Day2_d2_video\\Program.cs",
+              "ToolTip": "C:\\LION7\\lion7\\Day2_d2_video\\Day2_d2_video\\Program.cs",
+              "RelativeToolTip": "Day2_d2_video\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwDIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T08:47:52.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

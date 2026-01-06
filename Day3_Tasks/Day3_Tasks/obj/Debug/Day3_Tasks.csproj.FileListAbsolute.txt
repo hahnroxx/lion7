@@ -1,0 +1,8 @@
+C:\LION7\lion7\Day3_Tasks\Day3_Tasks\bin\Debug\Day3_Tasks.exe.config
+C:\LION7\lion7\Day3_Tasks\Day3_Tasks\bin\Debug\Day3_Tasks.exe
+C:\LION7\lion7\Day3_Tasks\Day3_Tasks\bin\Debug\Day3_Tasks.pdb
+C:\LION7\lion7\Day3_Tasks\Day3_Tasks\obj\Debug\Day3_Tasks.csproj.AssemblyReference.cache
+C:\LION7\lion7\Day3_Tasks\Day3_Tasks\obj\Debug\Day3_Tasks.csproj.CoreCompileInputs.cache
+C:\LION7\lion7\Day3_Tasks\Day3_Tasks\obj\Debug\Day3_Tasks.exe
+C:\LION7\lion7\Day3_Tasks\Day3_Tasks\obj\Debug\Day3_Tasks.pdb
+C:\LION7\lion7\Day3_Tasks\Day3_Tasks\obj\Debug\Day3_Tasks.exe.config
