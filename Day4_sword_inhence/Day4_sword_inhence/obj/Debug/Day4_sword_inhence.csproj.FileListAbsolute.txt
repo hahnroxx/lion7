@@ -1,0 +1,7 @@
+C:\LION7\lion7\Day4_sword_inhence\Day4_sword_inhence\bin\Debug\Day4_sword_inhence.exe.config
+C:\LION7\lion7\Day4_sword_inhence\Day4_sword_inhence\bin\Debug\Day4_sword_inhence.exe
+C:\LION7\lion7\Day4_sword_inhence\Day4_sword_inhence\bin\Debug\Day4_sword_inhence.pdb
+C:\LION7\lion7\Day4_sword_inhence\Day4_sword_inhence\obj\Debug\Day4_sword_inhence.csproj.AssemblyReference.cache
+C:\LION7\lion7\Day4_sword_inhence\Day4_sword_inhence\obj\Debug\Day4_sword_inhence.csproj.CoreCompileInputs.cache
+C:\LION7\lion7\Day4_sword_inhence\Day4_sword_inhence\obj\Debug\Day4_sword_inhence.exe
+C:\LION7\lion7\Day4_sword_inhence\Day4_sword_inhence\obj\Debug\Day4_sword_inhence.pdb

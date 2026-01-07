@@ -1,0 +1,8 @@
+C:\LION7\lion7\Day4_if_control\Day4_if_control\bin\Debug\Day4_if_control.exe.config
+C:\LION7\lion7\Day4_if_control\Day4_if_control\bin\Debug\Day4_if_control.exe
+C:\LION7\lion7\Day4_if_control\Day4_if_control\bin\Debug\Day4_if_control.pdb
+C:\LION7\lion7\Day4_if_control\Day4_if_control\obj\Debug\Day4_if_control.csproj.AssemblyReference.cache
+C:\LION7\lion7\Day4_if_control\Day4_if_control\obj\Debug\Day4_if_control.csproj.CoreCompileInputs.cache
+C:\LION7\lion7\Day4_if_control\Day4_if_control\obj\Debug\Day4_if_control.exe
+C:\LION7\lion7\Day4_if_control\Day4_if_control\obj\Debug\Day4_if_control.pdb
+C:\LION7\lion7\Day4_if_control\Day4_if_control\obj\Debug\Day4_if_control.exe.config

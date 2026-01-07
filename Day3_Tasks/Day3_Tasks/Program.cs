@@ -88,7 +88,8 @@ namespace Day3_Tasks
             Console.WriteLine($"쿠폰 할인(-500G): {originalPrice}G");
             Console.WriteLine($"최종 가격: {originalPrice}G");
 
-
+            string greeting = "Hello, World!";
+            Console.WriteLine(greeting);
             
 
 

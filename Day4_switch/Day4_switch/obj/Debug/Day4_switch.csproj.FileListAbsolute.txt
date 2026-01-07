@@ -1,0 +1,8 @@
+C:\LION7\lion7\Day4_switch\Day4_switch\obj\Debug\Day4_switch.csproj.AssemblyReference.cache
+C:\LION7\lion7\Day4_switch\Day4_switch\obj\Debug\Day4_switch.csproj.CoreCompileInputs.cache
+C:\LION7\lion7\Day4_switch\Day4_switch\bin\Debug\Day4_switch.exe.config
+C:\LION7\lion7\Day4_switch\Day4_switch\bin\Debug\Day4_switch.exe
+C:\LION7\lion7\Day4_switch\Day4_switch\bin\Debug\Day4_switch.pdb
+C:\LION7\lion7\Day4_switch\Day4_switch\obj\Debug\Day4_switch.exe
+C:\LION7\lion7\Day4_switch\Day4_switch\obj\Debug\Day4_switch.pdb
+C:\LION7\lion7\Day4_switch\Day4_switch\obj\Debug\Day4_switch.exe.config

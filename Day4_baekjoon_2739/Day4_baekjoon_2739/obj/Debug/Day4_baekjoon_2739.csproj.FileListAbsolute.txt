@@ -1,0 +1,8 @@
+C:\LION7\lion7\Day4_baekjoon_2739\Day4_baekjoon_2739\bin\Debug\Day4_baekjoon_2739.exe.config
+C:\LION7\lion7\Day4_baekjoon_2739\Day4_baekjoon_2739\bin\Debug\Day4_baekjoon_2739.exe
+C:\LION7\lion7\Day4_baekjoon_2739\Day4_baekjoon_2739\bin\Debug\Day4_baekjoon_2739.pdb
+C:\LION7\lion7\Day4_baekjoon_2739\Day4_baekjoon_2739\obj\Debug\Day4_baekjoon_2739.csproj.AssemblyReference.cache
+C:\LION7\lion7\Day4_baekjoon_2739\Day4_baekjoon_2739\obj\Debug\Day4_baekjoon_2739.csproj.CoreCompileInputs.cache
+C:\LION7\lion7\Day4_baekjoon_2739\Day4_baekjoon_2739\obj\Debug\Day4_baekjoon_2739.exe
+C:\LION7\lion7\Day4_baekjoon_2739\Day4_baekjoon_2739\obj\Debug\Day4_baekjoon_2739.pdb
+C:\LION7\lion7\Day4_baekjoon_2739\Day4_baekjoon_2739\obj\Debug\Day4_baekjoon_2739.exe.config
