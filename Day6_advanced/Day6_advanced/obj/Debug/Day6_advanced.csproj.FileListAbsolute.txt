@@ -1,0 +1,8 @@
+C:\LION7\lion7\Day6_advanced\Day6_advanced\bin\Debug\Day6_advanced.exe.config
+C:\LION7\lion7\Day6_advanced\Day6_advanced\bin\Debug\Day6_advanced.exe
+C:\LION7\lion7\Day6_advanced\Day6_advanced\bin\Debug\Day6_advanced.pdb
+C:\LION7\lion7\Day6_advanced\Day6_advanced\obj\Debug\Day6_advanced.csproj.AssemblyReference.cache
+C:\LION7\lion7\Day6_advanced\Day6_advanced\obj\Debug\Day6_advanced.csproj.CoreCompileInputs.cache
+C:\LION7\lion7\Day6_advanced\Day6_advanced\obj\Debug\Day6_advanced.exe
+C:\LION7\lion7\Day6_advanced\Day6_advanced\obj\Debug\Day6_advanced.pdb
+C:\LION7\lion7\Day6_advanced\Day6_advanced\obj\Debug\Day6_advanced.exe.config
