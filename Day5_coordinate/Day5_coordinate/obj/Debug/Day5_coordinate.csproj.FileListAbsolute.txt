@@ -1,0 +1,8 @@
+C:\LION7\lion7\Day5_coordinate\Day5_coordinate\bin\Debug\Day5_coordinate.exe.config
+C:\LION7\lion7\Day5_coordinate\Day5_coordinate\bin\Debug\Day5_coordinate.exe
+C:\LION7\lion7\Day5_coordinate\Day5_coordinate\bin\Debug\Day5_coordinate.pdb
+C:\LION7\lion7\Day5_coordinate\Day5_coordinate\obj\Debug\Day5_coordinate.csproj.AssemblyReference.cache
+C:\LION7\lion7\Day5_coordinate\Day5_coordinate\obj\Debug\Day5_coordinate.csproj.CoreCompileInputs.cache
+C:\LION7\lion7\Day5_coordinate\Day5_coordinate\obj\Debug\Day5_coordinate.exe
+C:\LION7\lion7\Day5_coordinate\Day5_coordinate\obj\Debug\Day5_coordinate.pdb
+C:\LION7\lion7\Day5_coordinate\Day5_coordinate\obj\Debug\Day5_coordinate.exe.config

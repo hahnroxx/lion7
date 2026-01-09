@@ -1,0 +1,8 @@
+C:\LION7\lion7\Day5_대장장이키우기\Day5_대장장이키우기\bin\Debug\Day5_대장장이키우기.exe.config
+C:\LION7\lion7\Day5_대장장이키우기\Day5_대장장이키우기\bin\Debug\Day5_대장장이키우기.exe
+C:\LION7\lion7\Day5_대장장이키우기\Day5_대장장이키우기\bin\Debug\Day5_대장장이키우기.pdb
+C:\LION7\lion7\Day5_대장장이키우기\Day5_대장장이키우기\obj\Debug\Day5_대장장이키우기.csproj.AssemblyReference.cache
+C:\LION7\lion7\Day5_대장장이키우기\Day5_대장장이키우기\obj\Debug\Day5_대장장이키우기.csproj.CoreCompileInputs.cache
+C:\LION7\lion7\Day5_대장장이키우기\Day5_대장장이키우기\obj\Debug\Day5_대장장이키우기.exe
+C:\LION7\lion7\Day5_대장장이키우기\Day5_대장장이키우기\obj\Debug\Day5_대장장이키우기.pdb
+C:\LION7\lion7\Day5_대장장이키우기\Day5_대장장이키우기\obj\Debug\Day5_대장장이키우기.exe.config

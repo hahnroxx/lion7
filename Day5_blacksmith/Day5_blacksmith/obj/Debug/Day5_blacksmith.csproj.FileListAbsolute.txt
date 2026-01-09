@@ -1,0 +1,8 @@
+C:\LION7\lion7\Day5_blacksmith\Day5_blacksmith\bin\Debug\Day5_blacksmith.exe.config
+C:\LION7\lion7\Day5_blacksmith\Day5_blacksmith\bin\Debug\Day5_blacksmith.exe
+C:\LION7\lion7\Day5_blacksmith\Day5_blacksmith\bin\Debug\Day5_blacksmith.pdb
+C:\LION7\lion7\Day5_blacksmith\Day5_blacksmith\obj\Debug\Day5_blacksmith.csproj.AssemblyReference.cache
+C:\LION7\lion7\Day5_blacksmith\Day5_blacksmith\obj\Debug\Day5_blacksmith.csproj.CoreCompileInputs.cache
+C:\LION7\lion7\Day5_blacksmith\Day5_blacksmith\obj\Debug\Day5_blacksmith.exe
+C:\LION7\lion7\Day5_blacksmith\Day5_blacksmith\obj\Debug\Day5_blacksmith.pdb
+C:\LION7\lion7\Day5_blacksmith\Day5_blacksmith\obj\Debug\Day5_blacksmith.exe.config

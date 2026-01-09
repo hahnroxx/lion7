@@ -1,0 +1,8 @@
+C:\LION7\lion7\Day5_2dmnsnfor\Day5_2dmnsnfor\bin\Debug\Day5_2dmnsnfor.exe.config
+C:\LION7\lion7\Day5_2dmnsnfor\Day5_2dmnsnfor\bin\Debug\Day5_2dmnsnfor.exe
+C:\LION7\lion7\Day5_2dmnsnfor\Day5_2dmnsnfor\bin\Debug\Day5_2dmnsnfor.pdb
+C:\LION7\lion7\Day5_2dmnsnfor\Day5_2dmnsnfor\obj\Debug\Day5_2dmnsnfor.csproj.AssemblyReference.cache
+C:\LION7\lion7\Day5_2dmnsnfor\Day5_2dmnsnfor\obj\Debug\Day5_2dmnsnfor.csproj.CoreCompileInputs.cache
+C:\LION7\lion7\Day5_2dmnsnfor\Day5_2dmnsnfor\obj\Debug\Day5_2dmnsnfor.exe
+C:\LION7\lion7\Day5_2dmnsnfor\Day5_2dmnsnfor\obj\Debug\Day5_2dmnsnfor.pdb
+C:\LION7\lion7\Day5_2dmnsnfor\Day5_2dmnsnfor\obj\Debug\Day5_2dmnsnfor.exe.config
