@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LION7\\lion7\\Day7_refout_work\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69B0DBCE-333A-4E12-9303-DB904351C81B}|Day7_refout_work\\Day7_refout_work.csproj|c:\\lion7\\lion7\\day7_refout_work\\day7_refout_work\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B0DBCE-333A-4E12-9303-DB904351C81B}|Day7_refout_work\\Day7_refout_work.csproj|solutionrelative:day7_refout_work\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LION7\\lion7\\Day7_refout_work\\Day7_refout_work\\Program.cs",
+              "RelativeDocumentMoniker": "Day7_refout_work\\Program.cs",
+              "ToolTip": "C:\\LION7\\lion7\\Day7_refout_work\\Day7_refout_work\\Program.cs",
+              "RelativeToolTip": "Day7_refout_work\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T06:02:27.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

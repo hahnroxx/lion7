@@ -1,0 +1,8 @@
+C:\LION7\lion7\Day7_fx4\Day7_fx4\bin\Debug\Day7_fx4.exe.config
+C:\LION7\lion7\Day7_fx4\Day7_fx4\bin\Debug\Day7_fx4.exe
+C:\LION7\lion7\Day7_fx4\Day7_fx4\bin\Debug\Day7_fx4.pdb
+C:\LION7\lion7\Day7_fx4\Day7_fx4\obj\Debug\Day7_fx4.csproj.AssemblyReference.cache
+C:\LION7\lion7\Day7_fx4\Day7_fx4\obj\Debug\Day7_fx4.csproj.CoreCompileInputs.cache
+C:\LION7\lion7\Day7_fx4\Day7_fx4\obj\Debug\Day7_fx4.exe
+C:\LION7\lion7\Day7_fx4\Day7_fx4\obj\Debug\Day7_fx4.pdb
+C:\LION7\lion7\Day7_fx4\Day7_fx4\obj\Debug\Day7_fx4.exe.config

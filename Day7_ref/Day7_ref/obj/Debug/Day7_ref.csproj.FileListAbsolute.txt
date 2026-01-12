@@ -1,0 +1,8 @@
+C:\LION7\lion7\Day7_ref\Day7_ref\bin\Debug\Day7_ref.exe.config
+C:\LION7\lion7\Day7_ref\Day7_ref\bin\Debug\Day7_ref.exe
+C:\LION7\lion7\Day7_ref\Day7_ref\bin\Debug\Day7_ref.pdb
+C:\LION7\lion7\Day7_ref\Day7_ref\obj\Debug\Day7_ref.csproj.AssemblyReference.cache
+C:\LION7\lion7\Day7_ref\Day7_ref\obj\Debug\Day7_ref.csproj.CoreCompileInputs.cache
+C:\LION7\lion7\Day7_ref\Day7_ref\obj\Debug\Day7_ref.exe
+C:\LION7\lion7\Day7_ref\Day7_ref\obj\Debug\Day7_ref.pdb
+C:\LION7\lion7\Day7_ref\Day7_ref\obj\Debug\Day7_ref.exe.config

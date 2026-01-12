@@ -1,0 +1,8 @@
+C:\LION7\lion7\Day7_refout_work\Day7_refout_work\bin\Debug\Day7_refout_work.exe.config
+C:\LION7\lion7\Day7_refout_work\Day7_refout_work\bin\Debug\Day7_refout_work.exe
+C:\LION7\lion7\Day7_refout_work\Day7_refout_work\bin\Debug\Day7_refout_work.pdb
+C:\LION7\lion7\Day7_refout_work\Day7_refout_work\obj\Debug\Day7_refout_work.csproj.AssemblyReference.cache
+C:\LION7\lion7\Day7_refout_work\Day7_refout_work\obj\Debug\Day7_refout_work.csproj.CoreCompileInputs.cache
+C:\LION7\lion7\Day7_refout_work\Day7_refout_work\obj\Debug\Day7_refout_work.exe
+C:\LION7\lion7\Day7_refout_work\Day7_refout_work\obj\Debug\Day7_refout_work.pdb
+C:\LION7\lion7\Day7_refout_work\Day7_refout_work\obj\Debug\Day7_refout_work.exe.config
