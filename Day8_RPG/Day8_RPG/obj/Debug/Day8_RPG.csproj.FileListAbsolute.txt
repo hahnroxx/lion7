@@ -1,0 +1,8 @@
+C:\LION7\lion7\Day8_RPG\Day8_RPG\bin\Debug\Day8_RPG.exe.config
+C:\LION7\lion7\Day8_RPG\Day8_RPG\bin\Debug\Day8_RPG.exe
+C:\LION7\lion7\Day8_RPG\Day8_RPG\bin\Debug\Day8_RPG.pdb
+C:\LION7\lion7\Day8_RPG\Day8_RPG\obj\Debug\Day8_RPG.csproj.AssemblyReference.cache
+C:\LION7\lion7\Day8_RPG\Day8_RPG\obj\Debug\Day8_RPG.csproj.CoreCompileInputs.cache
+C:\LION7\lion7\Day8_RPG\Day8_RPG\obj\Debug\Day8_RPG.exe
+C:\LION7\lion7\Day8_RPG\Day8_RPG\obj\Debug\Day8_RPG.pdb
+C:\LION7\lion7\Day8_RPG\Day8_RPG\obj\Debug\Day8_RPG.exe.config

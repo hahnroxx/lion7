@@ -1,0 +1,8 @@
+C:\LION7\lion7\Day8_class2\Day8_class2\bin\Debug\Day8_class2.exe.config
+C:\LION7\lion7\Day8_class2\Day8_class2\bin\Debug\Day8_class2.exe
+C:\LION7\lion7\Day8_class2\Day8_class2\bin\Debug\Day8_class2.pdb
+C:\LION7\lion7\Day8_class2\Day8_class2\obj\Debug\Day8_class2.csproj.AssemblyReference.cache
+C:\LION7\lion7\Day8_class2\Day8_class2\obj\Debug\Day8_class2.csproj.CoreCompileInputs.cache
+C:\LION7\lion7\Day8_class2\Day8_class2\obj\Debug\Day8_class2.exe
+C:\LION7\lion7\Day8_class2\Day8_class2\obj\Debug\Day8_class2.pdb
+C:\LION7\lion7\Day8_class2\Day8_class2\obj\Debug\Day8_class2.exe.config

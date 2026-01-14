@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LION7\\lion7\\Day8_class2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16194F0F-6A13-41BF-A9E5-3950DA15B1A3}|Day8_class2\\Day8_class2.csproj|c:\\lion7\\lion7\\day8_class2\\day8_class2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16194F0F-6A13-41BF-A9E5-3950DA15B1A3}|Day8_class2\\Day8_class2.csproj|solutionrelative:day8_class2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\LION7\\lion7\\Day8_class\\Day8_class\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LION7\\lion7\\Day8_class\\Day8_class\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Day8_class\\Day8_class\\Program.cs",
+              "ToolTip": "C:\\LION7\\lion7\\Day8_class\\Day8_class\\Program.cs",
+              "RelativeToolTip": "..\\Day8_class\\Day8_class\\Program.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T01:13:44.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LION7\\lion7\\Day8_class2\\Day8_class2\\Program.cs",
+              "RelativeDocumentMoniker": "Day8_class2\\Program.cs",
+              "ToolTip": "C:\\LION7\\lion7\\Day8_class2\\Day8_class2\\Program.cs",
+              "RelativeToolTip": "Day8_class2\\Program.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAA9wFwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T01:10:45.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

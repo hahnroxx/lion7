@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LION7\\lion7\\Day8_property_assign\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33F2F7E3-10C8-472A-8C26-C6FCB9F1EE65}|Day8_property_assign\\Day8_property_assign.csproj|c:\\lion7\\lion7\\day8_property_assign\\day8_property_assign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F2F7E3-10C8-472A-8C26-C6FCB9F1EE65}|Day8_property_assign\\Day8_property_assign.csproj|solutionrelative:day8_property_assign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LION7\\lion7\\Day8_property_assign\\Day8_property_assign\\Program.cs",
+              "RelativeDocumentMoniker": "Day8_property_assign\\Program.cs",
+              "ToolTip": "C:\\LION7\\lion7\\Day8_property_assign\\Day8_property_assign\\Program.cs",
+              "RelativeToolTip": "Day8_property_assign\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAqwE8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:13:53.889Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

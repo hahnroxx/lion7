@@ -1,0 +1,8 @@
+C:\LION7\lion7\Day8_property\Day8_property\bin\Debug\Day8_property.exe.config
+C:\LION7\lion7\Day8_property\Day8_property\bin\Debug\Day8_property.exe
+C:\LION7\lion7\Day8_property\Day8_property\bin\Debug\Day8_property.pdb
+C:\LION7\lion7\Day8_property\Day8_property\obj\Debug\Day8_property.csproj.AssemblyReference.cache
+C:\LION7\lion7\Day8_property\Day8_property\obj\Debug\Day8_property.csproj.CoreCompileInputs.cache
+C:\LION7\lion7\Day8_property\Day8_property\obj\Debug\Day8_property.exe
+C:\LION7\lion7\Day8_property\Day8_property\obj\Debug\Day8_property.pdb
+C:\LION7\lion7\Day8_property\Day8_property\obj\Debug\Day8_property.exe.config
