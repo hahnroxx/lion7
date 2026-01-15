@@ -1,0 +1,8 @@
+C:\LION7\lion7\Day9_상속\Day9_상속\bin\Debug\Day9_상속.exe.config
+C:\LION7\lion7\Day9_상속\Day9_상속\bin\Debug\Day9_상속.exe
+C:\LION7\lion7\Day9_상속\Day9_상속\bin\Debug\Day9_상속.pdb
+C:\LION7\lion7\Day9_상속\Day9_상속\obj\Debug\Day9_상속.csproj.AssemblyReference.cache
+C:\LION7\lion7\Day9_상속\Day9_상속\obj\Debug\Day9_상속.csproj.CoreCompileInputs.cache
+C:\LION7\lion7\Day9_상속\Day9_상속\obj\Debug\Day9_상속.exe
+C:\LION7\lion7\Day9_상속\Day9_상속\obj\Debug\Day9_상속.pdb
+C:\LION7\lion7\Day9_상속\Day9_상속\obj\Debug\Day9_상속.exe.config

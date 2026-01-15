@@ -1,0 +1,8 @@
+C:\LION7\lion7\Day9_shootingGame2\Day9_shootingGame2\bin\Debug\Day9_shootingGame2.exe.config
+C:\LION7\lion7\Day9_shootingGame2\Day9_shootingGame2\bin\Debug\Day9_shootingGame2.exe
+C:\LION7\lion7\Day9_shootingGame2\Day9_shootingGame2\bin\Debug\Day9_shootingGame2.pdb
+C:\LION7\lion7\Day9_shootingGame2\Day9_shootingGame2\obj\Debug\Day9_shootingGame2.csproj.AssemblyReference.cache
+C:\LION7\lion7\Day9_shootingGame2\Day9_shootingGame2\obj\Debug\Day9_shootingGame2.csproj.CoreCompileInputs.cache
+C:\LION7\lion7\Day9_shootingGame2\Day9_shootingGame2\obj\Debug\Day9_shootingGame2.exe
+C:\LION7\lion7\Day9_shootingGame2\Day9_shootingGame2\obj\Debug\Day9_shootingGame2.pdb
+C:\LION7\lion7\Day9_shootingGame2\Day9_shootingGame2\obj\Debug\Day9_shootingGame2.exe.config

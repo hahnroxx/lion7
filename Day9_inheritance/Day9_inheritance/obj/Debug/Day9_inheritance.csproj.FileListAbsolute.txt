@@ -1,0 +1,8 @@
+C:\LION7\lion7\Day9_inheritance\Day9_inheritance\bin\Debug\Day9_inheritance.exe.config
+C:\LION7\lion7\Day9_inheritance\Day9_inheritance\bin\Debug\Day9_inheritance.exe
+C:\LION7\lion7\Day9_inheritance\Day9_inheritance\bin\Debug\Day9_inheritance.pdb
+C:\LION7\lion7\Day9_inheritance\Day9_inheritance\obj\Debug\Day9_inheritance.csproj.AssemblyReference.cache
+C:\LION7\lion7\Day9_inheritance\Day9_inheritance\obj\Debug\Day9_inheritance.csproj.CoreCompileInputs.cache
+C:\LION7\lion7\Day9_inheritance\Day9_inheritance\obj\Debug\Day9_inheritance.exe
+C:\LION7\lion7\Day9_inheritance\Day9_inheritance\obj\Debug\Day9_inheritance.pdb
+C:\LION7\lion7\Day9_inheritance\Day9_inheritance\obj\Debug\Day9_inheritance.exe.config
