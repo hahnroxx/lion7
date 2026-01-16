@@ -1,0 +1,8 @@
+C:\LION7\lion7\Day10_abstractClaSS\Day10_abstractClaSS\bin\Debug\Day10_abstractClaSS.exe.config
+C:\LION7\lion7\Day10_abstractClaSS\Day10_abstractClaSS\bin\Debug\Day10_abstractClaSS.exe
+C:\LION7\lion7\Day10_abstractClaSS\Day10_abstractClaSS\bin\Debug\Day10_abstractClaSS.pdb
+C:\LION7\lion7\Day10_abstractClaSS\Day10_abstractClaSS\obj\Debug\Day10_abstractClaSS.csproj.AssemblyReference.cache
+C:\LION7\lion7\Day10_abstractClaSS\Day10_abstractClaSS\obj\Debug\Day10_abstractClaSS.csproj.CoreCompileInputs.cache
+C:\LION7\lion7\Day10_abstractClaSS\Day10_abstractClaSS\obj\Debug\Day10_abstractClaSS.exe
+C:\LION7\lion7\Day10_abstractClaSS\Day10_abstractClaSS\obj\Debug\Day10_abstractClaSS.pdb
+C:\LION7\lion7\Day10_abstractClaSS\Day10_abstractClaSS\obj\Debug\Day10_abstractClaSS.exe.config

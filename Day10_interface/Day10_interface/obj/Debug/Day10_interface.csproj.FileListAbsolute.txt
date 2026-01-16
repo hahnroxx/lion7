@@ -1,0 +1,8 @@
+C:\LION7\lion7\Day10_interface\Day10_interface\obj\Debug\Day10_interface.csproj.AssemblyReference.cache
+C:\LION7\lion7\Day10_interface\Day10_interface\obj\Debug\Day10_interface.csproj.CoreCompileInputs.cache
+C:\LION7\lion7\Day10_interface\Day10_interface\bin\Debug\Day10_interface.exe.config
+C:\LION7\lion7\Day10_interface\Day10_interface\bin\Debug\Day10_interface.exe
+C:\LION7\lion7\Day10_interface\Day10_interface\bin\Debug\Day10_interface.pdb
+C:\LION7\lion7\Day10_interface\Day10_interface\obj\Debug\Day10_interface.exe
+C:\LION7\lion7\Day10_interface\Day10_interface\obj\Debug\Day10_interface.pdb
+C:\LION7\lion7\Day10_interface\Day10_interface\obj\Debug\Day10_interface.exe.config

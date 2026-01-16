@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LION7\\lion7\\Day10_OverAll\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C92D6BE-DFFF-4A24-8A47-A6FE7B282739}|Day10_OverAll\\Day10_OverAll.csproj|c:\\lion7\\lion7\\day10_overall\\day10_overall\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C92D6BE-DFFF-4A24-8A47-A6FE7B282739}|Day10_OverAll\\Day10_OverAll.csproj|solutionrelative:day10_overall\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C92D6BE-DFFF-4A24-8A47-A6FE7B282739}|Day10_OverAll\\Day10_OverAll.csproj|c:\\lion7\\lion7\\day10_overall\\day10_overall\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C92D6BE-DFFF-4A24-8A47-A6FE7B282739}|Day10_OverAll\\Day10_OverAll.csproj|solutionrelative:day10_overall\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C92D6BE-DFFF-4A24-8A47-A6FE7B282739}|Day10_OverAll\\Day10_OverAll.csproj|c:\\lion7\\lion7\\day10_overall\\day10_overall\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C92D6BE-DFFF-4A24-8A47-A6FE7B282739}|Day10_OverAll\\Day10_OverAll.csproj|solutionrelative:day10_overall\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C92D6BE-DFFF-4A24-8A47-A6FE7B282739}|Day10_OverAll\\Day10_OverAll.csproj|c:\\lion7\\lion7\\day10_overall\\day10_overall\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C92D6BE-DFFF-4A24-8A47-A6FE7B282739}|Day10_OverAll\\Day10_OverAll.csproj|solutionrelative:day10_overall\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C92D6BE-DFFF-4A24-8A47-A6FE7B282739}|Day10_OverAll\\Day10_OverAll.csproj|c:\\lion7\\lion7\\day10_overall\\day10_overall\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C92D6BE-DFFF-4A24-8A47-A6FE7B282739}|Day10_OverAll\\Day10_OverAll.csproj|solutionrelative:day10_overall\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C92D6BE-DFFF-4A24-8A47-A6FE7B282739}|Day10_OverAll\\Day10_OverAll.csproj|c:\\lion7\\lion7\\day10_overall\\day10_overall\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C92D6BE-DFFF-4A24-8A47-A6FE7B282739}|Day10_OverAll\\Day10_OverAll.csproj|solutionrelative:day10_overall\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "field.cs",
+              "DocumentMoniker": "C:\\LION7\\lion7\\Day10_OverAll\\Day10_OverAll\\field.cs",
+              "RelativeDocumentMoniker": "Day10_OverAll\\field.cs",
+              "ToolTip": "C:\\LION7\\lion7\\Day10_OverAll\\Day10_OverAll\\field.cs",
+              "RelativeToolTip": "Day10_OverAll\\field.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAwHwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T02:37:45.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "monster.cs",
+              "DocumentMoniker": "C:\\LION7\\lion7\\Day10_OverAll\\Day10_OverAll\\monster.cs",
+              "RelativeDocumentMoniker": "Day10_OverAll\\monster.cs",
+              "ToolTip": "C:\\LION7\\lion7\\Day10_OverAll\\Day10_OverAll\\monster.cs",
+              "RelativeToolTip": "Day10_OverAll\\monster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T02:32:27.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainGame.cs",
+              "DocumentMoniker": "C:\\LION7\\lion7\\Day10_OverAll\\Day10_OverAll\\MainGame.cs",
+              "RelativeDocumentMoniker": "Day10_OverAll\\MainGame.cs",
+              "ToolTip": "C:\\LION7\\lion7\\Day10_OverAll\\Day10_OverAll\\MainGame.cs",
+              "RelativeToolTip": "Day10_OverAll\\MainGame.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T02:23:23.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Info.cs",
+              "DocumentMoniker": "C:\\LION7\\lion7\\Day10_OverAll\\Day10_OverAll\\Info.cs",
+              "RelativeDocumentMoniker": "Day10_OverAll\\Info.cs",
+              "ToolTip": "C:\\LION7\\lion7\\Day10_OverAll\\Day10_OverAll\\Info.cs",
+              "RelativeToolTip": "Day10_OverAll\\Info.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T02:13:17.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "player.cs",
+              "DocumentMoniker": "C:\\LION7\\lion7\\Day10_OverAll\\Day10_OverAll\\player.cs",
+              "RelativeDocumentMoniker": "Day10_OverAll\\player.cs",
+              "ToolTip": "C:\\LION7\\lion7\\Day10_OverAll\\Day10_OverAll\\player.cs",
+              "RelativeToolTip": "Day10_OverAll\\player.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwDsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T02:11:06.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LION7\\lion7\\Day10_OverAll\\Day10_OverAll\\Program.cs",
+              "RelativeDocumentMoniker": "Day10_OverAll\\Program.cs",
+              "ToolTip": "C:\\LION7\\lion7\\Day10_OverAll\\Day10_OverAll\\Program.cs",
+              "RelativeToolTip": "Day10_OverAll\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T01:41:46.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+C:\LION7\lion7\Day10_OverAll\Day10_OverAll\bin\Debug\Day10_OverAll.exe.config
+C:\LION7\lion7\Day10_OverAll\Day10_OverAll\bin\Debug\Day10_OverAll.exe
+C:\LION7\lion7\Day10_OverAll\Day10_OverAll\bin\Debug\Day10_OverAll.pdb
+C:\LION7\lion7\Day10_OverAll\Day10_OverAll\obj\Debug\Day10_OverAll.csproj.AssemblyReference.cache
+C:\LION7\lion7\Day10_OverAll\Day10_OverAll\obj\Debug\Day10_OverAll.csproj.CoreCompileInputs.cache
+C:\LION7\lion7\Day10_OverAll\Day10_OverAll\obj\Debug\Day10_OverAll.exe
+C:\LION7\lion7\Day10_OverAll\Day10_OverAll\obj\Debug\Day10_OverAll.pdb
+C:\LION7\lion7\Day10_OverAll\Day10_OverAll\obj\Debug\Day10_OverAll.exe.config
