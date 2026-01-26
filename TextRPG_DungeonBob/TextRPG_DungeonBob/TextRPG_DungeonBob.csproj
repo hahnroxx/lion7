@@ -1,13 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EE6B98FB-04B9-48A4-A557-568E77D5B924}</ProjectGuid>
+    <ProjectGuid>{60289466-FBD1-472A-8DA9-AB58F8DB10F6}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Day5_대장장이키우기</RootNamespace>
-    <AssemblyName>Day5_대장장이키우기</AssemblyName>
+    <RootNamespace>TextRPG_DungeonBob</RootNamespace>
+    <AssemblyName>TextRPG_DungeonBob</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -32,9 +32,6 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
-  <PropertyGroup>
-    <StartupObject />
-  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -46,8 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Dungeon\Battle.cs" />
+    <Compile Include="Dungeon\DungeonScene.cs" />
+    <Compile Include="GameState.cs" />
+    <Compile Include="Dungeon\Map.cs" />
+    <Compile Include="Kitchen\KitchenScene.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Kitchen\Restaurant.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

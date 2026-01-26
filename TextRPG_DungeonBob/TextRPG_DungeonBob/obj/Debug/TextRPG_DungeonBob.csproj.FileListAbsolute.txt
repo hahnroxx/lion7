@@ -1,0 +1,8 @@
+C:\LION7\lion7\TextRPG_DungeonBob\TextRPG_DungeonBob\bin\Debug\TextRPG_DungeonBob.exe.config
+C:\LION7\lion7\TextRPG_DungeonBob\TextRPG_DungeonBob\bin\Debug\TextRPG_DungeonBob.exe
+C:\LION7\lion7\TextRPG_DungeonBob\TextRPG_DungeonBob\bin\Debug\TextRPG_DungeonBob.pdb
+C:\LION7\lion7\TextRPG_DungeonBob\TextRPG_DungeonBob\obj\Debug\TextRPG_DungeonBob.csproj.AssemblyReference.cache
+C:\LION7\lion7\TextRPG_DungeonBob\TextRPG_DungeonBob\obj\Debug\TextRPG_DungeonBob.csproj.CoreCompileInputs.cache
+C:\LION7\lion7\TextRPG_DungeonBob\TextRPG_DungeonBob\obj\Debug\TextRPG_DungeonBob.exe
+C:\LION7\lion7\TextRPG_DungeonBob\TextRPG_DungeonBob\obj\Debug\TextRPG_DungeonBob.pdb
+C:\LION7\lion7\TextRPG_DungeonBob\TextRPG_DungeonBob\obj\Debug\TextRPG_DungeonBob.exe.config

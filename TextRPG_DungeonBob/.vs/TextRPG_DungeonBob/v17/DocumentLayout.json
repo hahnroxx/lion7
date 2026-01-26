@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LION7\\lion7\\TextRPG_DungeonBob\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60289466-FBD1-472A-8DA9-AB58F8DB10F6}|TextRPG_DungeonBob\\TextRPG_DungeonBob.csproj|c:\\lion7\\lion7\\textrpg_dungeonbob\\textrpg_dungeonbob\\kitchen\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60289466-FBD1-472A-8DA9-AB58F8DB10F6}|TextRPG_DungeonBob\\TextRPG_DungeonBob.csproj|solutionrelative:textrpg_dungeonbob\\kitchen\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60289466-FBD1-472A-8DA9-AB58F8DB10F6}|TextRPG_DungeonBob\\TextRPG_DungeonBob.csproj|C:\\LION7\\lion7\\TextRPG_DungeonBob\\textrpg_dungeonbob\\kitchen\\kitchenscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60289466-FBD1-472A-8DA9-AB58F8DB10F6}|TextRPG_DungeonBob\\TextRPG_DungeonBob.csproj|solutionrelative:textrpg_dungeonbob\\kitchen\\kitchenscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60289466-FBD1-472A-8DA9-AB58F8DB10F6}|TextRPG_DungeonBob\\TextRPG_DungeonBob.csproj|C:\\LION7\\lion7\\TextRPG_DungeonBob\\textrpg_dungeonbob\\dungeon\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60289466-FBD1-472A-8DA9-AB58F8DB10F6}|TextRPG_DungeonBob\\TextRPG_DungeonBob.csproj|solutionrelative:textrpg_dungeonbob\\dungeon\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60289466-FBD1-472A-8DA9-AB58F8DB10F6}|TextRPG_DungeonBob\\TextRPG_DungeonBob.csproj|C:\\LION7\\lion7\\TextRPG_DungeonBob\\textrpg_dungeonbob\\dungeon\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60289466-FBD1-472A-8DA9-AB58F8DB10F6}|TextRPG_DungeonBob\\TextRPG_DungeonBob.csproj|solutionrelative:textrpg_dungeonbob\\dungeon\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60289466-FBD1-472A-8DA9-AB58F8DB10F6}|TextRPG_DungeonBob\\TextRPG_DungeonBob.csproj|C:\\LION7\\lion7\\TextRPG_DungeonBob\\textrpg_dungeonbob\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60289466-FBD1-472A-8DA9-AB58F8DB10F6}|TextRPG_DungeonBob\\TextRPG_DungeonBob.csproj|solutionrelative:textrpg_dungeonbob\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60289466-FBD1-472A-8DA9-AB58F8DB10F6}|TextRPG_DungeonBob\\TextRPG_DungeonBob.csproj|C:\\LION7\\lion7\\TextRPG_DungeonBob\\textrpg_dungeonbob\\dungeon\\dungeonscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60289466-FBD1-472A-8DA9-AB58F8DB10F6}|TextRPG_DungeonBob\\TextRPG_DungeonBob.csproj|solutionrelative:textrpg_dungeonbob\\dungeon\\dungeonscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60289466-FBD1-472A-8DA9-AB58F8DB10F6}|TextRPG_DungeonBob\\TextRPG_DungeonBob.csproj|C:\\LION7\\lion7\\TextRPG_DungeonBob\\textrpg_dungeonbob\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60289466-FBD1-472A-8DA9-AB58F8DB10F6}|TextRPG_DungeonBob\\TextRPG_DungeonBob.csproj|solutionrelative:textrpg_dungeonbob\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LION7\\lion7\\TextRPG_DungeonBob\\TextRPG_DungeonBob\\Program.cs",
+              "RelativeDocumentMoniker": "TextRPG_DungeonBob\\Program.cs",
+              "ToolTip": "C:\\LION7\\lion7\\TextRPG_DungeonBob\\TextRPG_DungeonBob\\Program.cs",
+              "RelativeToolTip": "TextRPG_DungeonBob\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwL8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T08:47:29.529Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\LION7\\lion7\\TextRPG_DungeonBob\\TextRPG_DungeonBob\\Kitchen\\Restaurant.cs",
+              "RelativeDocumentMoniker": "TextRPG_DungeonBob\\Kitchen\\Restaurant.cs",
+              "ToolTip": "C:\\LION7\\lion7\\TextRPG_DungeonBob\\TextRPG_DungeonBob\\Kitchen\\Restaurant.cs",
+              "RelativeToolTip": "TextRPG_DungeonBob\\Kitchen\\Restaurant.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAwFwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T17:13:27.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KitchenScene.cs",
+              "DocumentMoniker": "C:\\LION7\\lion7\\TextRPG_DungeonBob\\TextRPG_DungeonBob\\Kitchen\\KitchenScene.cs",
+              "RelativeDocumentMoniker": "TextRPG_DungeonBob\\Kitchen\\KitchenScene.cs",
+              "ToolTip": "C:\\LION7\\lion7\\TextRPG_DungeonBob\\TextRPG_DungeonBob\\Kitchen\\KitchenScene.cs",
+              "RelativeToolTip": "TextRPG_DungeonBob\\Kitchen\\KitchenScene.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T12:57:05.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Map.cs",
+              "DocumentMoniker": "C:\\LION7\\lion7\\TextRPG_DungeonBob\\TextRPG_DungeonBob\\Dungeon\\Map.cs",
+              "RelativeDocumentMoniker": "TextRPG_DungeonBob\\Dungeon\\Map.cs",
+              "ToolTip": "C:\\LION7\\lion7\\TextRPG_DungeonBob\\TextRPG_DungeonBob\\Dungeon\\Map.cs",
+              "RelativeToolTip": "TextRPG_DungeonBob\\Dungeon\\Map.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAiwEwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T12:14:46.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Battle.cs",
+              "DocumentMoniker": "C:\\LION7\\lion7\\TextRPG_DungeonBob\\TextRPG_DungeonBob\\Dungeon\\Battle.cs",
+              "RelativeDocumentMoniker": "TextRPG_DungeonBob\\Dungeon\\Battle.cs",
+              "ToolTip": "C:\\LION7\\lion7\\TextRPG_DungeonBob\\TextRPG_DungeonBob\\Dungeon\\Battle.cs",
+              "RelativeToolTip": "TextRPG_DungeonBob\\Dungeon\\Battle.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwCoAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T11:10:14.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\LION7\\lion7\\TextRPG_DungeonBob\\TextRPG_DungeonBob\\GameState.cs",
+              "RelativeDocumentMoniker": "TextRPG_DungeonBob\\GameState.cs",
+              "ToolTip": "C:\\LION7\\lion7\\TextRPG_DungeonBob\\TextRPG_DungeonBob\\GameState.cs",
+              "RelativeToolTip": "TextRPG_DungeonBob\\GameState.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T08:50:58.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DungeonScene.cs",
+              "DocumentMoniker": "C:\\LION7\\lion7\\TextRPG_DungeonBob\\TextRPG_DungeonBob\\Dungeon\\DungeonScene.cs",
+              "RelativeDocumentMoniker": "TextRPG_DungeonBob\\Dungeon\\DungeonScene.cs",
+              "ToolTip": "C:\\LION7\\lion7\\TextRPG_DungeonBob\\TextRPG_DungeonBob\\Dungeon\\DungeonScene.cs",
+              "RelativeToolTip": "TextRPG_DungeonBob\\Dungeon\\DungeonScene.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T08:47:14.084Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
